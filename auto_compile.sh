@@ -8,11 +8,11 @@ package="auto_compile.sh"
 
 # Versions last updated 2014-10-20 (October 20th, 2014)
 # Update or change version numbers here to install different versions
-APACHE_VERSION="2.4.10" # Source http://httpd.apache.org/
-OPENSSL_VERSION="1.0.1j" # Source http://www.openssl.org/source/
-APR_VERSION="1.5.1" # Source https://apr.apache.org/
+APACHE_VERSION="2.4.17" # Source http://httpd.apache.org/
+OPENSSL_VERSION="1.0.2d" # Source http://www.openssl.org/source/
+APR_VERSION="1.5.2" # Source https://apr.apache.org/
 APR_UTIL_VERSION="1.5.4" # Source https://apr.apache.org/
-PHP_VERSION="5.4.34" # Source http://us1.php.net/downloads.php
+PHP_VERSION="5.6.15" # Source http://us1.php.net/downloads.php
 
 # Build directory location, used for downloading / compilation
 BUILD_DIRECTORY="/root/build" # No trailing slash
